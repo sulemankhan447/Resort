@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782856853658",
+    "firebase_url": "https://resort-537f5.firebaseio.com",
+    "project_id": "resort-537f5",
+    "storage_bucket": "resort-537f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782856853658:android:1cd7de3d9f218c0a",
+        "android_client_info": {
+          "package_name": "com.suleman.resort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782856853658-ov1mh1fok9403e6cj398lp8iri010bug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suleman.resort",
+            "certificate_hash": "978fce0bf4c146862be63a07b85454430bc20a7c"
+          }
+        },
+        {
+          "client_id": "782856853658-t502i7el4h1l2l1jueqtmpg64hgl0ebf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FbRI5FfiIMOgR4YBTfxUVMZ5tfFjm_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782856853658-t502i7el4h1l2l1jueqtmpg64hgl0ebf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
